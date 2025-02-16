@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyarrow
+fastapi-cors
+uvicorn[standard]
+websockets
